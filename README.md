@@ -1,6 +1,5 @@
-##########################
 Analytical Well Test Script
-##########################
+
 Step 1.
 Identify and put the file locations inside the script of the BOTTOM GAUGE.TXT & TOP GAUGE.TXT files, these are the raw well test files from the field.
 
